@@ -1,0 +1,12 @@
+[dir="rtl"] #hero  .container {
+  text-align: right;
+  padding: 100px 135 0 0;
+}
+
+[dir="rtl"] #services .owl-services  {
+   direction: ltr;
+}
+
+[dir="rtl"] #services .owl-services .service-dit {
+   direction: rtl;
+}
